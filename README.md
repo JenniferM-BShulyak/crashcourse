@@ -11,6 +11,11 @@ The purpose of this project is to examine the different courses provided to find
  ## Methodology:
 
  ### ETL in Python: 
+Extract: Data was pulled from YouTube's API using the channel ID to get a list of the video ids. Then a for loop was constructed to pull the statistics for each video and store the results in a list of dictionaries. A Pandas dataframe was constructed from the list of dictionaries. 
+
+Transform: Data was cleaned using a series of functions to pull out information from the long epsidoe titles such as the course, the episode, and the individual episode title. The parsed information became additiona columns. The published date was converted to datetime format and parsed for the day and time of publication. The duration/length of the videos were converted to seconds. The days seince publication was calculated. Redundant or unuseful columns were removed. 
+
+Load: The final dataframe was loaded as a csv file for use in Tableau.
 
  ### Data Exploration and Summary in Tableau:
 
