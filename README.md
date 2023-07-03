@@ -19,7 +19,17 @@ Load: The final dataframe was loaded as a csv file for use in Tableau.
 
  ### Data Exploration and Summary in Tableau:
 
+[Tableau Story (Dashbaords)](https://public.tableau.com/app/profile/jennifer.shulyak/viz/CrashCourseAnalysis/Story1?publish=yes)
+
  ## Analysis:
+
+ [StoryBoard1]!(Images/StoryBoard1.png)
+
+ [StoryBoard2]!(Images/StoryBoard2.png)
+
+ [StoryBoard3]!(Images/StoryBoard3.png)
+
+ [StoryBoard4]!(Images/StoryBoard4.png)
 
  ## Conclusion: 
 
