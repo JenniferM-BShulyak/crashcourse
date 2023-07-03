@@ -25,6 +25,7 @@ Load: The final dataframe was loaded as a csv file for use in Tableau.
 
  ![StoryBoard1](Images/StoryBoard1.png)
 
+### Observations: 
  * The top ten courses: World History, Big History, US History, Anatomy & Physiology, Philosophy, Biology, Psychology, English Literature, Chemistry, and astronomy. 
  * The Green brothers host 70% of the top ten courses (by view per episode).
  * 4/5 of the longest courses are of the history genre.
@@ -34,6 +35,7 @@ Load: The final dataframe was loaded as a csv file for use in Tableau.
 
  ![StoryBoard2](Images/StoryBoard2.png)
 
+### Observations: 
  * The most popular genre of courses: History, English, the Social Sciences, and the Living Sciences.
  * The lesat popular genre of courses: Film, College Readiness, Computer/Engineering, and Media Literacy.
  * Average duration of episodes range: 10-13 minutes.
@@ -41,10 +43,12 @@ Load: The final dataframe was loaded as a csv file for use in Tableau.
  * English Literature episodes have the highest comment rate (3,418) and like count (35,491) indicating a high impact on viewers (high participation). This could be due to students using books covered for school and all students in the United States must take English Literature to graduate high school. 
 
  ![StoryBoard3](Images/StoryBoard3.png)
+ ### Observations:
  * The view count & like count drop and the duration of each episode rises over the course of a season regardless of genre.
  * The number of comments per episode over a season rises for some courses and falls for others. There does not appear to be a pattern. 
 
  ![StoryBoard4](Images/StoryBoard4.png)
+ ### Observations: 
  * There is no correlation between view count and episode duration.
  * There is no correlation between like count and episode duration.
 
