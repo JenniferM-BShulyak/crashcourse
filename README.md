@@ -1,5 +1,5 @@
 # crashcourse
-Analyzing stats of Crash Course Courses and Videos
+Analyzing stats of longtime favorite YouTube channel: Crash Course.
 ## Purpose:
 Crash Course is a beloved and powerful educational tool used by teachers and students around the world. Launching on YouTube in 2012, the channel has produced over 40 seasons of courses over topics from biology to film production.
 
@@ -22,3 +22,4 @@ Load: The final dataframe was loaded as a csv file for use in Tableau.
  ## Analysis:
 
  ## Conclusion: 
+
