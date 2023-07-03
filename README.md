@@ -23,13 +23,13 @@ Load: The final dataframe was loaded as a csv file for use in Tableau.
 
  ## Analysis:
 
- [StoryBoard1]!(Images/StoryBoard1.png)
+ ![StoryBoard1](Images/StoryBoard1.png)
 
- [StoryBoard2]!(Images/StoryBoard2.png)
+ ![StoryBoard2](Images/StoryBoard2.png)
 
- [StoryBoard3]!(Images/StoryBoard3.png)
+ ![StoryBoard3](Images/StoryBoard3.png)
 
- [StoryBoard4]!(Images/StoryBoard4.png)
+ ![StoryBoard4](Images/StoryBoard4.png)
 
  ## Conclusion: 
 
