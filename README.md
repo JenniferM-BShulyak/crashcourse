@@ -1,7 +1,7 @@
 # crashcourse
 Analyzing stats of longtime favorite YouTube channel: Crash Course.
 ## Purpose:
-Crash Course is a beloved and powerful educational tool used by teachers and students around the world. Launching on YouTube in 2012, the channel has produced over 40 seasons of courses over topics from biology to film production.
+Crash Course is a beloved and powerful educational tool used by teachers and students around the world. Launching on YouTube in 2012, the channel has produced over 40 seasons of courses over topics from biology to film production. Crash Course was started by the Green brothers, John and Hank, who have authored best selling books such as The Fault in Our Stars and started series such as SciShow and PBS Eons. 
 
 The purpose of this project is to examine the different courses provided to find trends and answer questions regarding course topics that lend to greater success such as:
 1. Which genre of courses are the most successful (have the most views, likes, comments...)?
@@ -53,6 +53,7 @@ Load: The final dataframe was loaded as a csv file for use in Tableau.
  * There is no correlation between like count and episode duration.
 
  ## Conclusion: 
- *  Would recommend Crash Course invest more resources towards history courses.
- *  It may be worthwhile to focus on producing more courses with shorter seasons.
+ *  Would recommend Crash Course invest more resources towards history courses as they have the 2nd highest average views, the most comments per episode, and the 2nd highest likes per epsiode. The comments and "likes" indicated high viewer engagement. History courses are also required throughout secondary schools in the United States, so it would be beneficial to ensure all history courses have a corresponding Crash Course series.
+ *  70% of the top courses by average view count have one or both Green brothers as a host, so to ensure higher view counts, one or both brothers should host as many series as possible. 
+ *  It may be worthwhile to focus on producing more courses with shorter seasons as the average view count drops off over the course of the season regardless of genre. 
 
